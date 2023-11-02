@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-news-webpart-client-side-solution",
+    "id": "eb4ea94d-c667-47be-8380-19b3e5836669",
+    "version": "1.0.0.9",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-news-webpart.sppkg"
+  }
+}

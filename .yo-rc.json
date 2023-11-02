@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "react-news-webpart",
+    "libraryId": "eb4ea94d-c667-47be-8380-19b3e5836669",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
